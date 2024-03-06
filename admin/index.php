@@ -12,7 +12,7 @@
     <?php include 'particles/navbar.php'; ?>
     <!-- Main -->
     <div class="container mt-3">
-        <h1>Hello</h1>
+        <h1>Admin</h1>
     </div>
     <!-- Main -->
     <?php include 'particles/js/js.php'; ?>
